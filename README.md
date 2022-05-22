@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning NuxtJs  
   
 
-- ❓ Ask me about anything related to VueJs and related technologies  
+- ❓ Ask me anything about VueJs and related technologies  
   
 
 <br/>  
