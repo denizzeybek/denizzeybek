@@ -1,7 +1,5 @@
 ### <div align="center">I'm Deniz, working on front end development technologies 👨‍💻  🚀</div>  
   
-
-- 🔭 I’m currently working on [Github fullstack e-commerce application](https://github.com/denizzeybek/fullstack-ecommerce-app)  
   
 
 - 🌱 I’m currently learning NuxtJs  
