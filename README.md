@@ -1,6 +1,6 @@
 ### <div align="center">👋 Hello, I'm Deniz!, working on Front-End Development Technologies 👨‍💻  🚀</div>  
   
-I'm a passionate developer utilizing the Vue.js 3 framework to make my projects modern and user-friendly. I take pride in developing projects with technologies like TypeScript, Ant Design Vue, and Tailwind CSS. Feel free to explore my projects and don't hesitate to reach out! 🚀
+I'm a passionate developer utilizing the Vue.js 3 framework to make my projects modern and user-friendly. I take pride in developing projects with technologies like TypeScript, PrimeVue, Ant Design Vue, and Tailwind CSS. Feel free to explore my projects and don't hesitate to reach out! 🚀
 
 
 
